@@ -4,4 +4,4 @@
 ---
 
 ### Updates
-- [tarefajoaosalario.py](../blob/master/25-s1/ipe/tarefajoaosalario.py) - 14/03/2025
+- [tarefajoaosalario.py](./tarefajoaosalario.py) - 14/03/2025
